@@ -1,0 +1,12 @@
+com.example.appsettings.app_settings-jetified-window-java-1.0.0-beta04-0 C:\Users\user\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.appsettings.app_settings-core-1.6.0-1 C:\Users\user\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.appsettings.app_settings-jetified-annotation-experimental-1.1.0-2 C:\Users\user\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.appsettings.app_settings-jetified-window-1.0.0-beta04-3 C:\Users\user\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.appsettings.app_settings-main-4 C:\Users\user\AppData\Local\Pub\Cache\hosted\pub.dev\app_settings-4.2.0\android\src\main\res
+com.example.appsettings.app_settings-release-5 C:\Users\user\AppData\Local\Pub\Cache\hosted\pub.dev\app_settings-4.2.0\android\src\release\res
+com.example.appsettings.app_settings-pngs-6 D:\test\f\build\app_settings\generated\res\pngs\release
+com.example.appsettings.app_settings-resValues-7 D:\test\f\build\app_settings\generated\res\resValues\release
+com.example.appsettings.app_settings-rs-8 D:\test\f\build\app_settings\generated\res\rs\release
+com.example.appsettings.app_settings-mergeReleaseResources-9 D:\test\f\build\app_settings\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.appsettings.app_settings-mergeReleaseResources-10 D:\test\f\build\app_settings\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.appsettings.app_settings-merged_res-11 D:\test\f\build\app_settings\intermediates\merged_res\release

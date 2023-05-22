@@ -1,0 +1,10 @@
+class ChangeEmailModel {
+  String? message;
+  String? errors;
+  bool? status;
+  ChangeEmailModel.fromJson(Map<String, dynamic> json) {
+    message = json['message'];
+    errors = json['errors'];
+    status = json['status'];
+  }
+}
